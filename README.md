@@ -10,7 +10,7 @@
 ### B. 机器学习基础
 理论学习（看视频，同时在配套笔记的基础上可以简单做一些笔记，加深记忆。不需要全部看完，大概看到`第八周`即可，包括第八周）
 * "*吴恩达机器学习系列课程* " 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV164411b7dx/?spm_id_from=333.999.0.0&vd_source=0e48243c36ada68108535fbdbf51eb68)
-* 配套笔记："*黄海广博士的机器学习个人笔记* " [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88_%E9%BB%84%E6%B5%B7%E5%B9%BF%E5%8D%9A%E5%A3%AB.pdf)
+* 配套笔记："*黄海广博士的机器学习个人笔记* " [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88_%E9%BB%84%E6%B5%B7%E5%B9%BF%E5%8D%9A%E5%A3%AB.pdf)
 
 ### C. 深度学习基础
 代码学习（跟着视频配置环境，写代码，训练模型）：
