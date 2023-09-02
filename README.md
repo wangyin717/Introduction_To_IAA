@@ -61,6 +61,7 @@
 ### C. 其他工具
 * "*Semantic Scholar* " 论文检索工具 [[link]](https://www.semanticscholar.org/)
 * "*小绿鲸英文文献阅读器* " 论文辅助阅读工具 [[link]](https://www.xljsci.com/)
+* "*Mobaxterm* " SSH远程控制工具 [[link]](https://mobaxterm.mobatek.net/)
 * "*drawio* " 画图工具 [[link]](https://www.drawio.com/)
 * "*Zotero* " 论文整理工具 [[link]](https://www.zotero.org/)
 * "*sockboom* " 科学上网工具 [[link]](https://sockboom.link/)
