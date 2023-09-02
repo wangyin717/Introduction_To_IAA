@@ -14,7 +14,7 @@
 
 ### C. 深度学习基础
 代码学习（跟着视频配置环境，写代码，训练模型）：
-* "*霹雳吧啦Wz-深度学习-图像分类篇章* " 哔哩哔哩 [[link]](https://space.bilibili.com/18161609/channel/collectiondetail?sid=48290) （不需要全部看完，前面的几个经典模型都要看，后面的可以根据需要挑着看）
+* "*霹雳吧啦Wz-深度学习-图像分类篇章* " 哔哩哔哩 [[link]](https://space.bilibili.com/18161609/channel/collectiondetail?sid=48290) （不需要全部看完，前面的几个经典模型都要看，后面的可以根据需要挑着看，只看`pytorch`部分）
 
 理论学习（有了前面的基础看这个视频应该可以很快理解）：
 * "*李宏毅2021/2022春机器学习课程* " 哔哩哔哩 [[link]](https://space.bilibili.com/18161609/channel/collectiondetail?sid=48290) （同样不需要都看，可以只看计算机视觉相关的，比如`CNN`、`Self-Attention`、`Transformer`、`GAN`）
