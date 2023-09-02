@@ -20,9 +20,6 @@
 * "*李宏毅2021/2022春机器学习课程* " 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click&vd_source=0e48243c36ada68108535fbdbf51eb68) （同样不需要都看，可以只看计算机视觉相关的，比如`CNN`、`Self-Attention`、`Transformer`、`GAN`）
 
 ## 美学课题入门
-### 课题组现有成员
-目前在读学生为18人，构成比例为3本科生 + 15研究生 + 4老师
-
 ### A. 入门文章以及代码
 结合文章，下载数据集，跑通代码
 * "NIMA: Neural Image Assessment" `NIMA` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/NIMA.pdf) [[code]](https://github.com/yunxiaoshi/Neural-IMage-Assessment)
