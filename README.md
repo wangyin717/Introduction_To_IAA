@@ -24,8 +24,12 @@
 目前在读学生为18人，构成比例为3本科生 + 15研究生 + 4老师
 
 ### A. 入门文章
-* "NIMA: Neural Image Assessment" [[pdf]] (https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/NIMA.pdf [[code]] (https://github.com/yunxiaoshi/Neural-IMage-Assessment)
+* "NIMA: Neural Image Assessment" `NIMA` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/NIMA.pdf) [[code]](https://github.com/yunxiaoshi/Neural-IMage-Assessment)
 
-* "Image Composition Assessment with Saliency-augmented Multi-pattern Pooling" [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/Image%20Composition%20Assessment%20with%20Saliency-augmen.pdf) [[code]] (https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
+* "Image Composition Assessment with Saliency-augmented Multi-pattern Pooling" `构图评价` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/Image%20Composition%20Assessment%20with%20Saliency-augmen.pdf) [[code]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
+
+* "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks" `TANet多主题` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/TANet.pdf) [[code]](https://github.com/woshidandan/TANet)
+
+* "Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method" `BAID艺术图像数据集` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/BAID.pdf) [[code]](https://github.com/Dreemurr-T/BAID)
 
 
