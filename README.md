@@ -23,7 +23,8 @@
 ### 课题组现有成员
 目前在读学生为18人，构成比例为3本科生 + 15研究生 + 4老师
 
-### A. 入门文章
+### A. 入门文章以及代码
+结合文章，下载数据集，跑通代码
 * "NIMA: Neural Image Assessment" `NIMA` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/NIMA.pdf) [[code]](https://github.com/yunxiaoshi/Neural-IMage-Assessment)
 
 * "Image Composition Assessment with Saliency-augmented Multi-pattern Pooling" `构图评价` [[pdf]](https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/Image%20Composition%20Assessment%20with%20Saliency-augmen.pdf) [[code]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
@@ -51,3 +52,14 @@
 | KonIQ-10k★★★ | 包含总分、Brightness、Colorfulness、Contrast、Sharpness | 10,073张图像 | 评价美学维度 | [链接](http://database.mmsp-kn.de/koniq-10k-database.html) |
 | CUHKPQ | 只包含好照片和不好照片，但是细分为动物，建筑等很多类 | 28,410张图像 | 评价美学维度 | [链接](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm) |
 | TAD66K | 按主题标注，分为47个主题 | 66,000张左右的图像 | 整体美学评分 | [链接](https://drive.google.com/drive/folders/1b2D9LeeG5XZzhEa8ldnIZjGh0IHadHhU) |
+
+##### Notes
+* `AVA`数据集下载需要国外网盘，比较麻烦，可以直接找师兄师姐用移动硬盘拷贝。
+* `AADB`和`BAID`数据集也可以直接找师兄师姐用移动硬盘拷贝。
+
+
+### C. 其他工具
+* "*Semantic Scholar* " 论文检索工具 [[link]](https://www.semanticscholar.org/)
+* "*小绿鲸英文文献阅读器* " 论文辅助阅读工具 [[link]](https://www.xljsci.com/)
+* "*Zotero* " 论文整理工具 [[link]](https://www.zotero.org/)
+* "*sockboom* " 科学上网工具 [[link]](https://sockboom.link/)
