@@ -24,6 +24,8 @@
 目前在读学生为18人，构成比例为3本科生 + 15研究生 + 4老师
 
 ### A. 入门文章
-* "NIMA: Neural Image Assessment" [[pdf]] () [[code]](https://github.com/yunxiaoshi/Neural-IMage-Assessment)
+* "NIMA: Neural Image Assessment" [[pdf]] (https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/NIMA.pdf) [[code]](https://github.com/yunxiaoshi/Neural-IMage-Assessment)
+
+* "Image Composition Assessment with Saliency-augmented Multi-pattern Pooling" [[pdf]] (https://github.com/wangyin717/Introduction_To_IAA/blob/main/Material/Image%20Composition%20Assessment%20with%20Saliency-augmen.pdf) [[code]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
 
 
